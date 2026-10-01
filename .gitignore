@@ -35,3 +35,4 @@ Win32/
 *.db-wal
 /src/HulaOolaGame/HulaOolaGame.vcxproj
 /src/HulaOolaGame/HulaOolaGame.vcxproj.filters
+/src/HulaOolaGame/HulaOolaGame.sln
